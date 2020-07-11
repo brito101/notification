@@ -1,4 +1,4 @@
-# Notification library via email using phpMailer
+# Notification library by email using phpMailer
 
 This library has the function of sending e-mail using the phpmailer library. Doing this in an uncomplicated way is essential for any system.
 
