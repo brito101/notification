@@ -15,7 +15,7 @@ To use the library, simply require the composer to autoload, invoke the class an
 
 require __DIR__. '/vendor/autoload.php';
 
-USE Notification \ Email;
+use Notification\Email;
 
 $email = new Email (2, "mail.host.com", "your@email.com", "your-pass", "smtp secure (tls / ssl)", "port (587)", "from@email.com", "From Name");
 
